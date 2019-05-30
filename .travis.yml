@@ -10,27 +10,27 @@ env:
   - secure: DOZaP65wr1ERNmU68ZK2x1YlCJrnf/x+irtBMJxwIeIFkFvITfPeVyahQ4+qwmlI5JVdGTi2IEam+eXEQ7hzY4Z5hAqOPNUafSm9ynWnly3NopuBcgD/0cVo97LzUSisWEqqJJrIN6FqlVIcJ6SPM2EaQhl5rAwlj2VHP65qr+Epa0p6avwIPH51T7kTc/9bDMHiJ1aLRibUNq6JGQMjnJf9+EQNFh1WPjuuzGjrh3ZQ5sjs2cK8gytBAnv4LV/N57HG7bwyUuPgd5pjHul/KA5boTJUhKfoRBisNC0RkFOusS8INOkXVDS1N3g2W7mwa5TL12zSb1biy7pD7nXy6/Tj7yI5FXcaLKraUbzHURkTrkI0sOpRj0I2csNbZVISPpxPNGTHoZJ/pde6hkMEilrEMTLWHpPNuRaQvlU8kzK8IV5TC4MNLJL2f4b1UNcLfoTJ4e0/HhKsvo66AVXexjy5uY1DhXUKe6KqnRTMSJTwO5I5F+vLEd4Lf5HJb6XiCDe19iXwKO8Ow86xK6o7KEmfHWlFqfKxTEKjpGtUZGO6XtHCLE353NRdjtHEeuVjnu1Tfs4LKWBccOvqLUqtvIttT1j7oOwOTbdQJKLKIeHTTWXe8i3L517I9EhYvTWW3j0ACD193vq6l2ZendFh/uIBSYGpZ4ws3Iwwa9Z/FFA=
   - secure: XfWZrFmruMiCazTmGp3r/zYTAw/l61HfLRxWVnfa7PnEeGy24+98HXOIFaKWoSHocrLfoweqTjUKL3kT2c4o0Cvv9gmn914oL0i7AGSxzA014yJknSDUWMp6wpQFuzgMpRKMoISiuWcX44IQqdb4wmpIXBC4MFoN2i3EdCfWcPAQXWJBpppqYL6ek4ORmg+xTXci6HWnabhzFusHMcxo4JBvq/h3xCS7jAygbi8WbLBw/TZzcD/HuFRimj7u+XJ0Ti/bEpCHiSMqBWcs9JOEd2o/FvMdL/NGIFHJSS2m9G4X1QBBinR0tmd97SVMwRqDLGrcNBAPzHN1wa4j18BiIdXkkO09NhArZHtyDA6Jo43tfEJfL8RqpGouSFmGD6dKpqlJrzxBIzNHiU7wwneoakeXhdOHcIT8bVO6s7W8pZPWy0XDLYHJQNgo1yNziwDfYgqvucG8jgfrQsR5tUow3Ug+AG+cjvpnRAGMY9VrHc+TmFwgYn4dfmi2UrVvB9NroPvUSVtcJsDMiEGqolsOXaWvEdUkc2ewHMsTd5al2YOgtLoI4As7xqVAN/DiKMADOZeHXAo3cXDXlClu1nAwPRSqwAhiY0oSZzsEAFTJviRCRgLVT7DKbEjtARgVJJF0bXY1MAWN+8NLNXuHls1EAsr4Wiczty7XP22UENOccXo=
   - COMMIT=${TRAVIS_COMMIT::7}
+  - secure: a5FZXdb47yvGyz+2Br0rTlJKcTK5JZQ/8+fGqWYAFQbAfRnf/phIf5a4qH87P+tcRVu0HUGkSTKnWnCTWEOx5mjhUukFntLvjtESA+2W6+cUXioqy6H1+WM7STGmQzDoBb5dRgrwojowp4PZ66Oo5oZjq2A5tgx2HidqyZy5DE8RwLNl0gHJ0QLtmC/Fx5w0M3STdz9E3nncjqxZGNxXMDKvJhze8SmYcImzyaWHkzcHMwBW4bu7T7NFdHn0Ecs0LXSgPYTfxWBsCzqJlRtxvoubsORCf4MTg2iIbxVheBafckmPjRuNIBt0dc4EMw5hNi9PScc796L5JxMxiJlKgaKdfpZR6QI3C7wMnKlgIOSXbfOhbMBwBG2xftwcxPbY0vYfwJcZHNsqYbjGFLkymQI/Z78Nx/T7puW/MqqRsPhlPJoYt147NCE8a56rrMCAmX30MJqu8SNtRoyJ+5RcI95Jgi7Jgo40V9mqa4yyL6jA5Jd4lIwgORouM7yWeVsI698O9T6QOBVR3il6S6xVKL8pY4Azd//RHtIgjq3FfVxELVZ2Jt/aWcINxsWsIUT0KeoQMR99zSx8d8/cgHMcvfBlL3d1qHF8WKbBr190BcbncAzhagv9/4ruWd1Wda1nYXzynm2PKZHf5WQRpUWX71I6R/CYEzoA/oGngS8qezg=
+  - secure: g5m4ai9X9EGryMMdcsCJD3mmkawxpV7M5TpGtR4WZndv4ZeoCvgSRQG7JqhVk/gP7w5pJF6LX9Hdle3gSbYqFYzNadz9GaF6pXc+vRuGEBOwlRO8IRjszfdKLSu0CPMslC1RIo7uLQiF7YAMViSOZ7Mib5L+iYdcH7Uj/26PL823yq/siUuDpYeYATL5ZdpluyrhK351F1QuInR311gB1uCYTOYPhkpXpLFT3q70Pl/LKH5nkO4pgyUxpbdEEAl66ai6B72omLz0OhUsUhgZqNGYuVALvszE02m2hWyKJiY50ngz7dhfvrzK+dhmkN4OpeoEKTUDJm/uzcEfiZf2iYtze6f9Mvr+q4PcprigzXpUZJLmfzaDDr7ZFx2qFeG5mMuciQQz2D4qU6HKrMbEDOU1KF88tNcc3MDXRqZs/enCzSIDFTUvrxE34iTvcBTdWeDvL62Jdlg0R2XvcO7VZRVQRnp8S2Ml/Kdxqq5f4rYqTrpv2OiGrl1wq5lzmv8/iRzuYpCbg7NX89rMHndMlLYs63oMVj0S9z8jJ1F8M5HM0tGUL3iGyHNuX1lK8ZP7XOGqhrnPg9ZlbIt+23b10aa/NawbPXTYTuJBi1hAszNJeFkcLV229DXET4oWGxgJCChFzpHsesJZBIkrUHi4f8nKvMDQcE8RVENe3vrb/NE=
 branches:
   only:
   - master
 before_install:
-  - chmod +x mvnw
+- chmod +x mvnw
 script:
 - "./mvnw clean install -B"
-
 cache:
   directories:
-    - '$HOME/.m2/repository'
-
+  - "$HOME/.m2/repository"
 after_success:
 - docker login -u $DOCKER_USER -p $DOCKER_PASS
-- export TAG=`if [ "$TRAVIS_BRANCH" == "master" ]; then echo "latest"; else echo $TRAVIS_BRANCH; fi`
+- export TAG=`if [ "$TRAVIS_BRANCH" == "master" ]; then echo "latest"; else echo $TRAVIS_BRANCH;
+  fi`
 - export IMAGE_NAME=murat/travistutorial
 - docker build -t $IMAGE_NAME:$COMMIT .
 - docker tag $IMAGE_NAME:$COMMIT $IMAGE_NAME:$TAG
 - docker push $IMAGE_NAME
-
 deploy:
   provider: heroku
-  api_key: $HEROKU_API_KEY
+  api_key: "$HEROKU_API_KEY"
   app: travistutorial
